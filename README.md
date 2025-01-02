@@ -1,1 +1,1 @@
-# agentic-shakespeare.github.io
+# Agentic Shakespeare
